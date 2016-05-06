@@ -1,7 +1,7 @@
 {
    "bundle_name": "ids",
-   "icon": "",
-   "icon_color": "#999999",
+   "icon": "android",
+   "icon_color": "#abcabc",
    "id": "voy.ids",
    "page_banner": "",
    "schema_version": "0",

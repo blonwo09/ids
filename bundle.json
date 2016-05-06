@@ -1,0 +1,12 @@
+{
+   "bundle_name": "ids",
+   "icon": "",
+   "icon_color": "#999999",
+   "id": "voy.ids",
+   "page_banner": "",
+   "schema_version": "0",
+   "theme": "",
+   "title": "IDS",
+   "vendor": "voy",
+   "version": "0.1"
+}

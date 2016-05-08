@@ -1,0 +1,25 @@
+{
+  "bucket_data": {
+    "slots": {
+      "case.group_id": {
+        "attributes": {
+          "choice_type": "typeahead",
+          "bucket_name": "group_case"
+        },
+        "bucket": "case",
+        "created": "1462558130028",
+        "labels": {
+          "en": {
+            "label": "Group ID",
+            "labelp": "Group IDs"
+          }
+        },
+        "name": "group_id",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "choice"
+      }
+    }
+  }
+}

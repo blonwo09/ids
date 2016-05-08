@@ -1,0 +1,44 @@
+{
+  "bucket_data": {
+    "pages": {
+      "7648905b84d743658ef4779d65d6bdc1": {
+        "created": "1462559912188",
+        "id": "7648905b84d743658ef4779d65d6bdc1",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_22afc6b7762c0593b7ad3bde9fec4fe0"
+            ]
+          },
+          "component_22afc6b7762c0593b7ad3bde9fec4fe0": {
+            "type": "component",
+            "component": "list",
+            "id": "component_22afc6b7762c0593b7ad3bde9fec4fe0",
+            "name": "component_22afc6b7762c0593b7ad3bde9fec4fe0",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "case",
+              "force_condition": "[]",
+              "inline_details": "true",
+              "columns": [
+                "case_number",
+                "created"
+              ]
+            },
+            "w": "100%",
+            "h": "100%"
+          }
+        },
+        "name": "list.group_id_to_group_case.case",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

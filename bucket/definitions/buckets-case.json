@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "case": {
+        "attributes": {
+          "display": "case_number"
+        },
+        "created": "1462558028576",
+        "id": "case",
+        "labels": {
+          "en": {
+            "labelp": "Cases",
+            "label": "Case"
+          }
+        },
+        "owner": "00000000000000000000000000000000",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}

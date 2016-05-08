@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "group_case.number": {
+        "attributes": {
+          "prefix": "GRP"
+        },
+        "bucket": "group_case",
+        "created": "1462557920039",
+        "labels": {
+          "en": {
+            "label": "Number",
+            "labelp": "Numbers"
+          }
+        },
+        "name": "number",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "number"
+      }
+    }
+  }
+}

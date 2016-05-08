@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "892": {
+        "attributes": {
+          "display": "created"
+        },
+        "created": "1462558295104",
+        "id": "892",
+        "labels": {
+          "en": {
+            "labelp": "892s",
+            "label": "892"
+          }
+        },
+        "owner": "00000000000000000000000000000000",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}

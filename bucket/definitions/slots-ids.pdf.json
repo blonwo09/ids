@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "ids.pdf": {
+        "attributes": { },
+        "bucket": "ids",
+        "created": "1462558247935",
+        "labels": {
+          "en": {
+            "label": "PDF",
+            "labelp": "PDFs"
+          }
+        },
+        "name": "pdf",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "html"
+      }
+    }
+  }
+}

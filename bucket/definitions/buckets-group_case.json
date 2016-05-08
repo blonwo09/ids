@@ -1,0 +1,23 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "group_case": {
+        "attributes": {
+          "display": "number"
+        },
+        "created": "1462557855330",
+        "id": "group_case",
+        "labels": {
+          "en": {
+            "label": "Group Case",
+            "labelp": "Group Cases"
+          }
+        },
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}

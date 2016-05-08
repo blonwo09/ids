@@ -1,0 +1,73 @@
+{
+  "bucket_data": {
+    "pages": {
+      "db5241edaa73426e842a7448618d52de": {
+        "created": "1462559515988",
+        "id": "db5241edaa73426e842a7448618d52de",
+        "layout": {
+          "component_7e2a40c223d51946ac409fdea0e67ae2": {
+            "type": "component",
+            "component": "related",
+            "id": "component_7e2a40c223d51946ac409fdea0e67ae2",
+            "name": "component_7e2a40c223d51946ac409fdea0e67ae2",
+            "needs_subpage_target": false,
+            "attributes": {
+              "related": [
+                {
+                  "label": "892 (case)",
+                  "value": "892.case"
+                },
+                {
+                  "label": "IDS (case)",
+                  "value": "ids.case"
+                },
+                {
+                  "label": "Unreported (case)",
+                  "value": "unreported.case"
+                }
+              ]
+            },
+            "w": "100%",
+            "h": "64%"
+          },
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504",
+              "component_7e2a40c223d51946ac409fdea0e67ae2"
+            ]
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "case",
+              "include_actions": "1",
+              "read_only": "false",
+              "layout": {
+                "layout": [
+                  "group_id",
+                  "case_number"
+                ],
+                "display_rules": [ ]
+              }
+            },
+            "w": "100%",
+            "h": "36%"
+          }
+        },
+        "name": "details.default.case",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

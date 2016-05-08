@@ -1,0 +1,24 @@
+{
+  "bucket_data": {
+    "slots": {
+      "case.case_number": {
+        "attributes": {
+          "prefix": "CASE"
+        },
+        "bucket": "case",
+        "created": "1462558168564",
+        "labels": {
+          "en": {
+            "label": "Case Number",
+            "labelp": "Case Numbers"
+          }
+        },
+        "name": "case_number",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "number"
+      }
+    }
+  }
+}

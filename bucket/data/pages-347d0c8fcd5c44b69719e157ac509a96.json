@@ -1,0 +1,45 @@
+{
+  "bucket_data": {
+    "pages": {
+      "347d0c8fcd5c44b69719e157ac509a96": {
+        "created": "1462559558404",
+        "id": "347d0c8fcd5c44b69719e157ac509a96",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_22afc6b7762c0593b7ad3bde9fec4fe0"
+            ]
+          },
+          "component_22afc6b7762c0593b7ad3bde9fec4fe0": {
+            "type": "component",
+            "component": "list",
+            "id": "component_22afc6b7762c0593b7ad3bde9fec4fe0",
+            "name": "component_22afc6b7762c0593b7ad3bde9fec4fe0",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "ids",
+              "force_condition": "[]",
+              "inline_details": "true",
+              "columns": [
+                "created",
+                "case",
+                "pdf"
+              ]
+            },
+            "w": "100%",
+            "h": "100%"
+          }
+        },
+        "name": "list.default.ids",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

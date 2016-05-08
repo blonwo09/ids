@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "navigator_item_list": {
+      "2c2328111e9a43959ec58ac8b63cf18a": {
+        "bucket": "case",
+        "condition": "[]",
+        "created": "1462558904472",
+        "icon": "",
+        "id": "2c2328111e9a43959ec58ac8b63cf18a",
+        "label": "Case",
+        "order": "1",
+        "owner": "00000000000000000000000000000000",
+        "parent": "998765d7ef3048b0b44899ba97b780fc",
+        "schema_version": "0",
+        "sort_by": "case_number",
+        "sort_direction": "ascending",
+        "system_updated": "0"
+      }
+    }
+  }
+}

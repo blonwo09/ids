@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "892.pdf": {
+        "attributes": { },
+        "bucket": "892",
+        "id": "892.pdf",
+        "labels": {
+          "en": {
+            "labelp": "PDFs",
+            "label": "PDF"
+          }
+        },
+        "name": "pdf",
+        "type": "html"
+      }
+    }
+  }
+}

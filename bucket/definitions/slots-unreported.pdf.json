@@ -1,0 +1,19 @@
+{
+  "bucket_data": {
+    "slots": {
+      "unreported.pdf": {
+        "attributes": { },
+        "bucket": "unreported",
+        "id": "unreported.pdf",
+        "labels": {
+          "en": {
+            "labelp": "PDFs",
+            "label": "PDF"
+          }
+        },
+        "name": "pdf",
+        "type": "string"
+      }
+    }
+  }
+}

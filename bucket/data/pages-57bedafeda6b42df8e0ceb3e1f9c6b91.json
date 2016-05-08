@@ -1,0 +1,47 @@
+{
+  "bucket_data": {
+    "pages": {
+      "57bedafeda6b42df8e0ceb3e1f9c6b91": {
+        "created": "1462559199120",
+        "id": "57bedafeda6b42df8e0ceb3e1f9c6b91",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_22afc6b7762c0593b7ad3bde9fec4fe0"
+            ]
+          },
+          "component_22afc6b7762c0593b7ad3bde9fec4fe0": {
+            "type": "component",
+            "component": "list",
+            "id": "component_22afc6b7762c0593b7ad3bde9fec4fe0",
+            "name": "component_22afc6b7762c0593b7ad3bde9fec4fe0",
+            "needs_subpage_target": false,
+            "attributes": {
+              "bucket": "group_case",
+              "force_condition": "[]",
+              "inline_details": "true",
+              "columns": [
+                "name",
+                "number",
+                "created",
+                "owner",
+                "updated"
+              ]
+            },
+            "w": "100%",
+            "h": "100%"
+          }
+        },
+        "name": "list.default.group_case",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

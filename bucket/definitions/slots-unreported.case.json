@@ -1,0 +1,25 @@
+{
+  "bucket_data": {
+    "slots": {
+      "unreported.case": {
+        "attributes": {
+          "choice_type": "typeahead",
+          "bucket_name": "case"
+        },
+        "bucket": "unreported",
+        "created": "1462558480476",
+        "labels": {
+          "en": {
+            "label": "Case",
+            "labelp": "Cases"
+          }
+        },
+        "name": "case",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "choice"
+      }
+    }
+  }
+}

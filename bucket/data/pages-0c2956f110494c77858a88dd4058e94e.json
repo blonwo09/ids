@@ -1,0 +1,59 @@
+{
+  "bucket_data": {
+    "pages": {
+      "0c2956f110494c77858a88dd4058e94e": {
+        "created": "1462559586357",
+        "id": "0c2956f110494c77858a88dd4058e94e",
+        "layout": {
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_90149531a8b10b19c9271bcfc4495504",
+              "component_2b86eefaf2175ce9151dee471d37f9ff"
+            ]
+          },
+          "component_2b86eefaf2175ce9151dee471d37f9ff": {
+            "type": "component",
+            "component": "static_html",
+            "id": "component_2b86eefaf2175ce9151dee471d37f9ff",
+            "name": "component_2b86eefaf2175ce9151dee471d37f9ff",
+            "needs_subpage_target": false,
+            "attributes": {
+              "html": "<html>\n  <iframe src=\"https://wojciech.dreamtsoft.com/download/upload/424d625ae7134a1bbf4711b451a0fe84/IDS20160316-2.pdf\" style=\"width:100%; height:700px;\" frameborder=\"0\"></iframe>\n</html>"
+            },
+            "w": "100%",
+            "h": "53%"
+          },
+          "component_90149531a8b10b19c9271bcfc4495504": {
+            "type": "component",
+            "component": "details",
+            "id": "component_90149531a8b10b19c9271bcfc4495504",
+            "name": "component_90149531a8b10b19c9271bcfc4495504",
+            "needs_subpage_target": false,
+            "attributes": {
+              "read_only": "false",
+              "bucket": "ids",
+              "layout": {
+                "layout": [
+                  "case"
+                ],
+                "display_rules": [ ]
+              },
+              "include_actions": "1"
+            },
+            "w": "100%",
+            "h": "47%"
+          }
+        },
+        "name": "details.default.ids",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

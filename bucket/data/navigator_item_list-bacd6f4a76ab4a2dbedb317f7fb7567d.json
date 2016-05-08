@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "navigator_item_list": {
+      "bacd6f4a76ab4a2dbedb317f7fb7567d": {
+        "bucket": "ids",
+        "condition": "[]",
+        "created": "1462558904511",
+        "icon": "",
+        "id": "bacd6f4a76ab4a2dbedb317f7fb7567d",
+        "label": "IDS",
+        "order": "2",
+        "owner": "00000000000000000000000000000000",
+        "parent": "998765d7ef3048b0b44899ba97b780fc",
+        "schema_version": "0",
+        "sort_by": "created",
+        "sort_direction": "ascending",
+        "system_updated": "0"
+      }
+    }
+  }
+}

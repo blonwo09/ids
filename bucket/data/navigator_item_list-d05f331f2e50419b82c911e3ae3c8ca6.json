@@ -1,0 +1,21 @@
+{
+  "bucket_data": {
+    "navigator_item_list": {
+      "d05f331f2e50419b82c911e3ae3c8ca6": {
+        "bucket": "group_case",
+        "condition": "[]",
+        "created": "1462558904446",
+        "icon": "angellist",
+        "id": "d05f331f2e50419b82c911e3ae3c8ca6",
+        "label": "Case Group",
+        "order": "0",
+        "owner": "00000000000000000000000000000000",
+        "parent": "998765d7ef3048b0b44899ba97b780fc",
+        "schema_version": "0",
+        "sort_by": "number",
+        "sort_direction": "ascending",
+        "system_updated": "0"
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "bucket_data": {
+    "pages": {
+      "68a14b2c1933423ab327b64d7a3ef79e": {
+        "created": "1462558904631",
+        "id": "68a14b2c1933423ab327b64d7a3ef79e",
+        "layout": {
+          "component_119a0b7a6854d0bfb46951f6e0990025": {
+            "type": "component",
+            "component": "navigator",
+            "id": "component_119a0b7a6854d0bfb46951f6e0990025",
+            "name": "component_119a0b7a6854d0bfb46951f6e0990025",
+            "needs_subpage_target": true,
+            "attributes": {
+              "type": "menu",
+              "name": "IDS",
+              "navigator": "998765d7ef3048b0b44899ba97b780fc"
+            },
+            "w": "15%",
+            "h": "100%"
+          },
+          "__start__": {
+            "type": "container",
+            "w": "100%",
+            "h": "100%",
+            "contains": [
+              "component_119a0b7a6854d0bfb46951f6e0990025",
+              "component_ef9e1d46db0358a3ba32e1d9d2e24b0b"
+            ]
+          },
+          "component_ef9e1d46db0358a3ba32e1d9d2e24b0b": {
+            "type": "component",
+            "component": "image_slider",
+            "id": "component_ef9e1d46db0358a3ba32e1d9d2e24b0b",
+            "name": "component_ef9e1d46db0358a3ba32e1d9d2e24b0b",
+            "needs_subpage_target": false,
+            "attributes": { },
+            "h": "100%",
+            "w": "85%"
+          }
+        },
+        "name": "home",
+        "owner": "00000000000000000000000000000000",
+        "public": "0",
+        "schema_version": "0",
+        "system_updated": "0",
+        "template": ""
+      }
+    }
+  }
+}

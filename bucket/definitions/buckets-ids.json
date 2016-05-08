@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "buckets": {
+      "ids": {
+        "attributes": {
+          "display": "created"
+        },
+        "created": "1462558208092",
+        "id": "ids",
+        "labels": {
+          "en": {
+            "labelp": "IDSs",
+            "label": "IDS"
+          }
+        },
+        "owner": "00000000000000000000000000000000",
+        "system_updated": "0",
+        "type": "records"
+      }
+    }
+  }
+}

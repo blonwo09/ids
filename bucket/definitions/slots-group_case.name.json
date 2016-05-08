@@ -1,0 +1,22 @@
+{
+  "bucket_data": {
+    "slots": {
+      "group_case.name": {
+        "attributes": { },
+        "bucket": "group_case",
+        "created": "1462557899460",
+        "labels": {
+          "en": {
+            "label": "Name",
+            "labelp": "Names"
+          }
+        },
+        "name": "name",
+        "owner": "00000000000000000000000000000000",
+        "schema_version": "0",
+        "system_updated": "0",
+        "type": "string"
+      }
+    }
+  }
+}

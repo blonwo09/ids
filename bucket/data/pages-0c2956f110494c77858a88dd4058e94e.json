@@ -5,26 +5,33 @@
         "created": "1462559586357",
         "id": "0c2956f110494c77858a88dd4058e94e",
         "layout": {
-          "__start__": {
+          "component_c5a90ea729c807033e60769c517f5de6": {
+            "type": "component",
+            "component": "attachments",
+            "id": "component_c5a90ea729c807033e60769c517f5de6",
+            "name": "component_c5a90ea729c807033e60769c517f5de6",
+            "needs_subpage_target": false,
+            "attributes": { },
+            "w": "100%",
+            "h": "33%"
+          },
+          "container_580107aa849a24bd98580ee37507e1f4": {
             "type": "container",
             "w": "100%",
             "h": "100%",
             "contains": [
               "component_90149531a8b10b19c9271bcfc4495504",
-              "component_2b86eefaf2175ce9151dee471d37f9ff"
+              "component_c5a90ea729c807033e60769c517f5de6",
+              "component_9f03dcabe98d498f9e68b0aeb9264b59"
             ]
           },
-          "component_2b86eefaf2175ce9151dee471d37f9ff": {
-            "type": "component",
-            "component": "static_html",
-            "id": "component_2b86eefaf2175ce9151dee471d37f9ff",
-            "name": "component_2b86eefaf2175ce9151dee471d37f9ff",
-            "needs_subpage_target": false,
-            "attributes": {
-              "html": "<html>\n  <iframe src=\"https://wojciech.dreamtsoft.com/download/upload/424d625ae7134a1bbf4711b451a0fe84/IDS20160316-2.pdf\" style=\"width:100%; height:700px;\" frameborder=\"0\"></iframe>\n</html>"
-            },
+          "__start__": {
+            "type": "container",
             "w": "100%",
-            "h": "53%"
+            "h": "100%",
+            "contains": [
+              "container_580107aa849a24bd98580ee37507e1f4"
+            ]
           },
           "component_90149531a8b10b19c9271bcfc4495504": {
             "type": "component",
@@ -44,7 +51,17 @@
               "include_actions": "1"
             },
             "w": "100%",
-            "h": "47%"
+            "h": "33%"
+          },
+          "component_9f03dcabe98d498f9e68b0aeb9264b59": {
+            "type": "component",
+            "component": "pdf_viewer",
+            "id": "component_9f03dcabe98d498f9e68b0aeb9264b59",
+            "name": "component_9f03dcabe98d498f9e68b0aeb9264b59",
+            "needs_subpage_target": false,
+            "attributes": { },
+            "w": "100%",
+            "h": "34%"
           }
         },
         "name": "details.default.ids",

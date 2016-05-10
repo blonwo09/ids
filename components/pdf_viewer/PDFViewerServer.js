@@ -18,7 +18,7 @@ var PDFViewerServer = PageComponent.create({
 		uploadVar.addSearch('type', 'application/pdf');
 		uploadVar.search();
 		while (uploadVar.next()) {
-			urlVar += '<iframe src="http://localhost:8080/';
+			urlVar += '<iframe src="http://wojciech.dreamtsoft.com/';
 			urlVar += uploadVar.url;
 			urlVar += '" style="width:100%; height:700px;" frameborder="1" scrolling="auto"></iframe>';
 			

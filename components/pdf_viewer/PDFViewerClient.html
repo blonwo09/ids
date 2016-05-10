@@ -6,8 +6,6 @@
 			if (Object.isNil(data.url))
 				return;
 				
-			alert('URL - ' + data.url);
-						
 			var TemplateObject = require("core/TemplateObject");
 			var to = new TemplateObject('static_template', data.url);
 			var dom = to.eval(data, attributes);

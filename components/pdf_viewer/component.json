@@ -1,0 +1,10 @@
+//
+// Component Definition
+//
+{
+	id: "pdf_viewer",
+	label: "PDF Viewer",
+	className: "PDFViewerServer",
+	
+	renderable: true
+}
